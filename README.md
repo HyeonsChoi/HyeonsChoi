@@ -14,13 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 <br>[![Hyeons' github stats](https://github-readme-stats.vercel.app/api?username=HyeonsChoi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonsChoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Hyeons' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyeonsChoi)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyeonsChoi&count_private=true&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonsChoi&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HyeonsChoi" />
 </a>
