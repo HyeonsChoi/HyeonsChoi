@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyeonsChoi&count_private=true&repo=github-readme-stats" width="500" height="500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyeonsChoi&count_private=true&repo=github-readme-stats" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HyeonsChoi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HyeonsChoi&layout=compact" />
 </a>
